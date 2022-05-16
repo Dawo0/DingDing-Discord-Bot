@@ -40,4 +40,4 @@ async def say(ctx, *, msg: str):
     await ctx.message.delete()
 
 
-bot.run("OTc1ODMzMjUyOTYxMDgzNTEy.GCy3T7.gxMkwX1VV3HiaQ6roWDcx9qQWo_iIXUICr6LLs")
+bot.run("TOKEN")
